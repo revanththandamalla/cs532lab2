@@ -1,0 +1,7 @@
+--->code is partioned into three block using functions
+----> first block the insertion algorith is implemented by giving sequnce array and n has parameters
+---->where array holds the inputs and the n no of values given
+---->second block is used for displaying the array values by giving same array and n has parameters
+----->third block is the main function where the input have values has been taken by using taking for loop and number of elements as condidtion
+----->number of elements is declared to take user input hence array is developed dynamically.
+---->later the insertion sort function is declared and followed by display function 
